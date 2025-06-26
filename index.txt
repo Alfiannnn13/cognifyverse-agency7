@@ -1,0 +1,167 @@
+SCEO - Seo agency website
+
+
+
+# HEADER
+
+alt = SCEO logo
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Beranda
+Layanan
+Tentang Kami
+Fitur
+Harga
+FAQ
+
+Let's Started
+
+
+
+# HERO
+
+ingkatkan Penjualan Lewat SEO, Iklan PPC, & Email Marketing
+Mulai perjalanan digitalmu sekarang – gratis selama 30 hari, tanpa biaya tersembunyi, dan dukungan eksklusif.
+
+placeholder: Masukkan nama Anda*
+placeholder: Masukkan email Anda*
+
+Coba Sekarang
+
+✅ Uji coba gratis 30 hari
+✅ Dukungan khusus
+✅ Tanpa biaya tambahan
+
+
+
+# SERVICE
+
+Dapatkan Lebih Banyak Pelanggan Secara Online
+Kami bantu bisnis Anda tampil di halaman pertama dan menarik lebih banyak pengunjung yang siap membeli.
+
+📍 SEO Lokal
+Optimalkan pencarian di area sekitar Anda untuk menarik pelanggan terdekat.
+
+📊 SEO untuk E-Commerce
+Tingkatkan penjualan toko online dengan strategi SEO yang terukur.
+
+📈 Analitik Lanjutan
+Lacak performa situs dan ubah data menjadi strategi.
+
+🎯 Manajemen Iklan PPC
+Kampanye iklan berbayar yang tertarget dan efisien.
+
+
+# ABOUT
+
+Peringkat Pertama, Layanan Terdepan
+Kami telah membantu banyak bisnis muncul di halaman pertama Google dengan pendekatan yang cepat, aman, dan strategis.
+
+Tinjauan Analitik Mendalam
+Kami memantau performa web Anda secara menyeluruh dan menyusun langkah-langkah perbaikan yang konkret.
+
+Naikkan Peringkat Website Anda dengan Cepat
+Dengan teknik terbaru dan strategi yang terbukti efektif, kami bantu situs Anda naik ke puncak pencarian.
+
+
+
+
+
+# FEATURES
+Riset Pasar & Solusi Marketing Terintegrasi
+Kami tawarkan layanan lengkap untuk mendongkrak visibilitas dan pertumbuhan bisnis Anda:
+
+📊 Tinjauan Analitik Lanjutan
+
+📧 Kampanye Email Marketing
+
+🎥 Video Marketing
+
+🌐 Search Engine Optimization (SEO)
+
+🎯 Pay Per Click (PPC)
+
+📝 Content Marketing
+
+
+
+# PRICING
+
+PRICING / HARGA
+Mudah Digunakan, Maksimal Hasilnya
+Satu ide brilian untuk setiap klien. Kami sesuaikan solusi SEO terbaik untuk kebutuhan spesifik Anda.
+
+Lihat Paket & Harga
+
+
+# FAQ
+
+FAQ / PERTANYAAN UMUM
+Semua yang Perlu Anda Ketahui Sebelum Menggunakan SCEO
+
+📌 Apakah saya bisa mencoba SCEO sebelum membeli?
+Tentu. Anda bisa melihat demo layanan kami untuk mengetahui fitur dan manfaatnya secara langsung.
+
+📌 Apa saja yang dibutuhkan untuk mulai menggunakan SCEO?
+Anda hanya perlu memiliki website aktif. Tim kami akan membantu proses optimasinya dari awal.
+
+📌 Apakah SCEO bisa digunakan di semua perangkat?
+Ya. Layanan kami didesain responsif dan dapat diakses dengan lancar di desktop, tablet, maupun smartphone.
+
+📌 Apakah tersedia uji coba gratis?
+Kami menyediakan uji coba gratis selama 14 hari, tanpa biaya dan tanpa komitmen apa pun.
+
+📌 Bagaimana SCEO melindungi privasi data saya?
+Keamanan data Anda adalah prioritas kami. Kami menerapkan standar perlindungan data terbaik di industri.
+
+📌 Saya mengalami kendala dengan akun saya. Apa yang harus dilakukan?
+Silakan hubungi tim dukungan kami melalui live chat atau email. Kami siap membantu Anda kapan saja.
+
+❓ Masih punya pertanyaan?
+Langsung ajukan melalui formulir kontak atau live chat. Tim kami akan segera merespons.
+
+
+
+# CTA
+Coba SCEO Gratis Selama 14 Hari
+Mulai sekarang, pilih paket nanti. Tidak ada risiko, hanya peluang.
+
+Coba Sekarang
+Lihat FAQ
+
+
+
+# FOOTER
+
+SCEO
+Kami bantu bisnismu tumbuh lewat strategi SEO modern dan layanan digital marketing yang terukur.
+
+Perusahaan
+Tentang Kami
+Karier
+Media & Press
+Hubungi Kami
+
+Temukan
+Blog Kami
+Periklanan
+Harga & Paket
+Testimoni
+
+Legalitas
+Syarat Penggunaan
+Kebijakan Privasi
+Kebijakan Cookie
+Peta Situs
+
+Dukungan
+FAQ
+Panduan Editor
+Komunitas
+Live Chat
+
+© 2022 CognifyVerse. Semua Hak Dilindungi
+
+GitHub | Twitter | Instagram | YouTube
